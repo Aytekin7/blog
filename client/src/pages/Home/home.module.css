@@ -1,0 +1,13 @@
+.home{
+    height: 100vh;
+ 
+    background: url('https://preview.colorlib.com/theme/bizpro/images/home/slide-1.jpg.webp');
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.button:hover{
+    background-color: purple;
+}
